@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Dimi140
-- 👀 Mostly Python, but im capable of C++ & C# aswell
-- 🌱 Working on commercial projects
-- 💞️ I’m looking to collaborate on ...
+- 📚 Python, C++, C#
+- 💞️ Working on commercial projects for fun
+- ⚠️ Hate the so called software "experts"
 - 📫 Discord: xbread140
 
 <!---
