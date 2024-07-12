@@ -1,6 +1,6 @@
 - 📚 Python, C++, C#
-- 💞️ Working on commercial projects for fun
-- ⚠️ Hate the so called software "experts"
+- 💞️ Im working on commercial projects for fun
+- ⚠️ I hate the so called software "experts"
 - 📫 Discord: xbread140
 
 <!---
